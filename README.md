@@ -9,8 +9,8 @@ This repository contains the source code, processed outputs, figures, and result
 │   ├── figures/                                     # Generated plots, visualizations, and diagnostic charts
 │   ├── processed/                                   # Preprocessed datasets and intermediate feature engineering files
 │   └── tables/                                      # Evaluation metrics, model comparison tables, and summary results
-├── (code) Application of Machine Learning
-|   Methods to Forecast Daily Retail Sales Turnover  # Main Jupyter Notebook (.ipynb) with full experimental pipeline
+├── (code) Application of Machine Learning Methods
+|   to Forecast Daily Retail Sales Turnover.ipynb    # Main Jupyter Notebook (.ipynb) with full experimental pipeline
 └── README.md                                        # Project documentation
 
 ```
