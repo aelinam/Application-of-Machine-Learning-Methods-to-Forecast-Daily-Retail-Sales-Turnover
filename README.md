@@ -13,6 +13,7 @@ This repository contains the source code, processed outputs, figures, and result
 |   Methods to Forecast Daily Retail Sales Turnover  # Main Jupyter Notebook (.ipynb) with full experimental pipeline
 └── README.md                                        # Project documentation
 
+```
 ## ⚠️ Note on Opening Code Files (`.ipynb`)
 
 Due to GitHub's rendering limitations, the main Jupyter Notebook file (`(code) Application of Machine Learning Methods to Forecast Daily Retail Sales Turnover`) may sometimes fail to load or display properly directly in the browser. 
