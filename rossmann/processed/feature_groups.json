@@ -1,0 +1,45 @@
+{
+ "Temporal": [
+  "Year",
+  "Month",
+  "Day",
+  "DayOfWeek"
+ ],
+ "Historical": [
+  "Sales_lag1",
+  "Sales_lag7",
+  "Sales_lag14",
+  "Sales_lag28",
+  "Sales_rmean7",
+  "Sales_rmean14",
+  "Sales_rmean28",
+  "Customers_lag1",
+  "Customers_lag7",
+  "Customers_rmean7",
+  "Customers_rmean28",
+  "HistMissing"
+ ],
+ "Promo_Holiday": [
+  "Promo",
+  "Promo2",
+  "Promo2Active",
+  "Promo2RoundMonth",
+  "SchoolHoliday",
+  "StateHoliday_a",
+  "StateHoliday_b",
+  "StateHoliday_c",
+  "PromoInterval_Feb-May-Aug-Nov",
+  "PromoInterval_Jan-Apr-Jul-Oct",
+  "PromoInterval_Mar-Jun-Sept-Dec"
+ ],
+ "Store": [
+  "StoreType_b",
+  "StoreType_c",
+  "StoreType_d",
+  "Assortment_b",
+  "Assortment_c",
+  "CompetitionDistance",
+  "CompetitionOpenMonths",
+  "CompetitionOpenUnknown"
+ ]
+}

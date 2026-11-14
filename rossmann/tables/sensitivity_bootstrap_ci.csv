@@ -1,0 +1,25 @@
+comparison,metric,reduction_%,CI95_low,CI95_high,unit
+RF vs LR,MAE,27.065,26.222,27.921,Store
+RF vs LR,RMSE,25.003,22.712,26.986,Store
+RF vs LR,MAE,27.065,19.183,34.303,Date
+RF vs LR,RMSE,25.003,15.277,34.253,Date
+XGB vs LR,MAE,26.228,25.342,27.174,Store
+XGB vs LR,RMSE,24.951,22.327,27.147,Store
+XGB vs LR,MAE,26.228,16.57,34.734,Date
+XGB vs LR,RMSE,24.951,13.768,35.074,Date
+RF vs LR+calendar,MAE,28.182,27.251,29.101,Store
+RF vs LR+calendar,RMSE,25.468,22.485,27.929,Store
+RF vs LR+calendar,MAE,28.182,20.187,35.484,Date
+RF vs LR+calendar,RMSE,25.468,16.093,34.262,Date
+XGB vs LR+calendar,MAE,27.357,26.38,28.347,Store
+XGB vs LR+calendar,RMSE,25.417,22.138,28.055,Store
+XGB vs LR+calendar,MAE,27.357,17.684,35.884,Date
+XGB vs LR+calendar,RMSE,25.417,14.388,35.316,Date
+RF vs LR+calendar+Promo×DoW,MAE,26.913,25.97,27.848,Store
+RF vs LR+calendar+Promo×DoW,RMSE,24.555,21.699,27.016,Store
+RF vs LR+calendar+Promo×DoW,MAE,26.913,19.393,33.782,Date
+RF vs LR+calendar+Promo×DoW,RMSE,24.555,16.107,32.715,Date
+XGB vs LR+calendar+Promo×DoW,MAE,26.074,25.079,27.08,Store
+XGB vs LR+calendar+Promo×DoW,RMSE,24.503,21.349,27.122,Store
+XGB vs LR+calendar+Promo×DoW,MAE,26.074,16.623,34.168,Date
+XGB vs LR+calendar+Promo×DoW,RMSE,24.503,14.135,33.659,Date

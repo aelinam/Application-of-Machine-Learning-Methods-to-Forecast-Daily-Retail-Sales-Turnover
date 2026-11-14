@@ -1,0 +1,27 @@
+{
+ "RF": {
+  "max_depth": 21,
+  "max_features": 0.5,
+  "min_samples_split": 7,
+  "n_estimators": 229,
+  "max_samples": null,
+  "fit_time_min": 24.599847984313964
+ },
+ "XGB": {
+  "learning_rate": 0.04555636200065778,
+  "max_depth": 9,
+  "reg_alpha": 0.5808361216819946,
+  "reg_lambda": 8.661761457749352,
+  "subsample": 0.8404460046972835,
+  "n_estimators": 284,
+  "fit_time_min": 0.6171075145403544
+ },
+ "settings": {
+  "N_ITER": 10,
+  "RF_FRAC": 0.15,
+  "XGB_FRAC": 0.5,
+  "QUICK": false,
+  "xgboost": "3.4.1",
+  "GPU": false
+ }
+}

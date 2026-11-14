@@ -1,0 +1,19 @@
+{
+ "H": 1,
+ "test_start": "2015-06-20",
+ "CompetitionDistance_median": 2320.0,
+ "CompetitionOpenMonths_cap": 195.0,
+ "hist_medians": {
+  "Sales_lag1": 5814.0,
+  "Sales_lag7": 6217.0,
+  "Sales_lag14": 6233.0,
+  "Sales_lag28": 6227.0,
+  "Sales_rmean7": 6461.833333333333,
+  "Sales_rmean14": 6516.666666666667,
+  "Sales_rmean28": 6533.565217391304,
+  "Customers_lag1": 619.0,
+  "Customers_lag7": 662.0,
+  "Customers_rmean7": 676.6,
+  "Customers_rmean28": 679.1363636363636
+ }
+}
